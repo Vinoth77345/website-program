@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html Documentation</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h2>HTML Documentation</h2>
+    </header>
+     <section id="topmenu"></section>
+        <!-- <h1 id="heading1">Html Documentation</h1> -->
+    
+        <ul type="none">
+            <li><a href="#section1">What is HTML?</a></li>
+            <li><a href="#section2">Html Basics</a></li>
+            <li><a href="#section3">Html Versions</a></li>
+            <li><a href="#section4">Html & Browser</a></li>
+            <li><a href="#section5">Html Page Structure</a></li>
+            <li><a href="#section6">Tags vs Elements</a></li>
+            <li><a href="#section7">Attributes</a></li>
+            <li><a href="#section8">Case insensitive</a></li>
+            <li><a href="#section9">!DOCTYPE</a></li>
+            <li><a href="#section10">Hello Html</a></li>
+            <li><a href="#section11">Comment & Paragraph</a></li>
+            <li><a href="#section12">Link</a></li>
+            <li><a href="#section13">Image</a></li>
+        </ul>
+    </section>
+
+    <section id="section1">
+        <article>
+            <h2>What is HTML?</h2>
+        
+        <p><h4>
+            HTML stands for <mark>Hyper Text Markup Language </mark> is the standard markup language for creating Web pagesHTML describes the structure of a Web page
+            HTML consists of a series of elements
+            HTML elements tell the browser how to display the content
+            HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+        </h4></p>
+        <img src="https://images.pexels.com/photos/1591061/pexels-photo-1591061.jpeg?auto=compress&cs=tinysrgb&w=400" alt="HTML">
+        <p id="top"><a href="#topmenu">Goto Top</a></p>
+        </article>
+    </section>
+    <section id="section2">
+        <div>
+            <h2>Html Basics</h2>
+        </div>
+        <p><h4>
+            HTML stands for Hyper Text Markup LanguageHTML is the standard markup language for creating Web pagesHTML describes the structure of a Web page
+            HTML consists of a series of elements
+            HTML elements tell the browser how to display the content
+            HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+        </h4></p>
+        
+        <p id="top"><a href="#topmenu">Goto Top</a></p>
+        
+    </section>
+    
+    <section id="section3">
+        <div>
+            <h2>Html Versions</h2>
+        </div>
+        <p><h4>
+            HTML stands for Hyper Text Markup LanguageHTML is the standard markup language for creating Web pagesHTML describes the structure of a Web page
+            HTML consists of a series of elements
+            HTML elements tell the browser how to display the content
+            HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+        </h4></p>
+        
+        <p id="top"><a href="#topmenu">Goto Top</a></p>
+        
+    </section>
+
+    <section id="section4">
+        <div>
+            <h2>Html & Browser</h2>
+        </div>
+        <p><h4>
+            HTML stands for Hyper Text Markup LanguageHTML is the standard markup language for creating Web pagesHTML describes the structure of a Web page
+            HTML consists of a series of elements
+            HTML elements tell the browser how to display the content
+            HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+        </h4></p>
+        
+        <p id="top"><a href="#topmenu">Goto Top</a></p>
+        
+    </section>
+    
+    <section id="section5">
+        <div>
+            <h2>Html Page Structure</h2>
+        </div>
+        <p><h4>
+            HTML stands for Hyper Text Markup LanguageHTML is the standard markup language for creating Web pagesHTML describes the structure of a Web page
+            HTML consists of a series of elements
+            HTML elements tell the browser how to display the content
+            HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+        </h4></p>
+        
+        <p id="top"><a href="#topmenu">Goto Top</a></p>
+        
+    </section>
+
+        <section id="section6">
+        <div>
+            <h2>Tags vs Elements</h2>
+        </div>
+        <p><h4>
+            HTML stands for Hyper Text Markup LanguageHTML is the standard markup language for creating Web pagesHTML describes the structure of a Web page
+            HTML consists of a series of elements
+            HTML elements tell the browser how to display the content
+            HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+        </h4></p>
+        
+        <p id="top"><a href="#topmenu">Goto Top</a></p>
+        
+    </section>
+
+        <section id="section7">
+        <div>
+            <h2>Attributes</h2>
+        </div>
+        <p><h4>
+            HTML stands for Hyper Text Markup LanguageHTML is the standard markup language for creating Web pagesHTML describes the structure of a Web page
+            HTML consists of a series of elements
+            HTML elements tell the browser how to display the content
+            HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+        </h4></p>
+        
+        <p id="top"><a href="#topmenu">Goto Top</a></p>
+        
+    </section>
+
+        <section id="section8">
+        <div>
+            <h2>Case insensitive</h2>
+        </div>
+        <p><h4>
+            HTML stands for Hyper Text Markup LanguageHTML is the standard markup language for creating Web pagesHTML describes the structure of a Web page
+            HTML consists of a series of elements
+            HTML elements tell the browser how to display the content
+            HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+        </h4></p>
+        
+        <p id="top"><a href="#topmenu">Goto Top</a></p>
+        
+    </section>
+
+    <section id="section9">
+        <div>
+            <h2>!DOCTYPE</h2>
+        </div>
+        <p><h4>
+            HTML stands for Hyper Text Markup LanguageHTML is the standard markup language for creating Web pagesHTML describes the structure of a Web page
+            HTML consists of a series of elements
+            HTML elements tell the browser how to display the content
+            HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+        </h4></p>
+        
+        <p id="top"><a href="#topmenu">Goto Top</a></p>
+        
+    </section>
+
+    <section id="section10">
+        <div>
+            <h2>Hello Html</h2>
+        </div>
+        <p><h4>
+            HTML stands for Hyper Text Markup LanguageHTML is the standard markup language for creating Web pagesHTML describes the structure of a Web page
+            HTML consists of a series of elements
+            HTML elements tell the browser how to display the content
+            HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+        </h4></p>
+        
+        <p id="top"><a href="#topmenu">Goto Top</a></p>
+        
+    </section>
+
+    <section id="section11">
+        <div>
+            <h2>Comment & Paragraph</h2>
+        </div>
+        <p><h4>
+            HTML stands for Hyper Text Markup LanguageHTML is the standard markup language for creating Web pagesHTML describes the structure of a Web page
+            HTML consists of a series of elements
+            HTML elements tell the browser how to display the content
+            HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+        </h4></p>
+        
+        <p id="top"><a href="#topmenu">Goto Top</a></p>
+        
+    </section>
+
+    <section id="section12">
+        <div>
+            <h2>Link</h2>
+        </div>
+        <p><h4>
+            HTML stands for Hyper Text Markup LanguageHTML is the standard markup language for creating Web pagesHTML describes the structure of a Web page
+            HTML consists of a series of elements
+            HTML elements tell the browser how to display the content
+            HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+        </h4></p>
+        
+        <p id="top"><a href="#topmenu">Goto Top</a></p>
+        
+    </section>
+
+    <section id="section13">
+        <div>
+            <h2>Image</h2>
+        </div>
+        <p><h4>
+            HTML stands for Hyper Text Markup LanguageHTML is the standard markup language for creating Web pagesHTML describes the structure of a Web page
+            HTML consists of a series of elements
+            HTML elements tell the browser how to display the content
+            HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+        </h4></p>
+        
+        <p id="top"><a href="#topmenu">Goto Top</a></p>
+        
+    </section> -->
+
+  
+
+    
+
+</body>
+</html>

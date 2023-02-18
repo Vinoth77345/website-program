@@ -1,0 +1,85 @@
+html,body{
+    margin:0px;
+    background-color: papayawhip;
+    padding: 0px;
+    box-sizing:border-box;
+    font-family: 'Raleway', sans-serif;
+}
+header{
+    background: linear-gradient(120deg, rgb(240, 144, 240),red);
+    width:100%;
+    display:block;
+    height:100px;
+    color:aquamarine;
+    padding:5px;
+    text-align: center;
+    box-shadow: 0 3px 2px plum;
+    font-size:22px;
+
+}
+
+article{
+    padding:10px;
+}
+
+article h2{
+    color:blue;
+}
+
+article p{
+    font-size: 16px;
+    color:black;
+    text-align: justify;
+    font-weight: 400;
+}
+/* h1#heading1 {
+    color:rgb(128, 213, 228);
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ff00ff;
+    border:5px ridge yellow;
+    font-style: italic;
+    padding: 5px;
+    margin: 5px 0 0 0;
+    text-transform: uppercase;
+    text-decoration:underline;
+}*/
+
+ul li a:nth-child(1){
+    background-color:rgba(126, 184, 199, 0.767) ;
+    color:rgb(247, 31, 24);
+    padding:0px;
+    border-radius: 5px;
+    text-decoration: none;
+    
+}
+
+
+button{
+    background-color: gold;
+    border-radius: 30px;
+    
+}
+
+p#top a{
+    text-decoration: none;
+    background-color: rgb(235, 75, 101);
+    color:#0dec7d;
+    padding:7px;
+    border-radius: 10px;
+}
+
+p#top a:hover{
+    color:rgb(14, 210, 236);
+    font-weight: 600;
+    
+}
+
+section#section1 img{
+    margin:0 auto;
+    display:block;
+}
+
+h4{
+    text-indent: 50px;
+}

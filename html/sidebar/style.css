@@ -1,0 +1,21 @@
+html,body
+{
+margin:0 auto;
+padding:0;
+}
+.sidebar
+{
+background: linear-gradient(45deg,blue,green);
+border-radius:50px;
+float:right;
+box-shadow:00 5px paleturquoise;
+}
+.sidebar img
+{
+    height:150px;
+    width: 150px;
+    border:10px solid blueviolet;
+    border-radius:250px;
+    box-shadow: 20px auto;
+    display:block;
+}
